@@ -1,6 +1,6 @@
-# ${{ values.name }}
+# tek-service
 
-${{ values.description }}
+tek-service service
 
 ## Stack
 - React 18 · Vite 5 · nginx
