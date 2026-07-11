@@ -25,7 +25,7 @@ spec:
         effect: NoSchedule
       containers:
       - name: tek-service
-        image: harbor.harbor.svc.cluster.local/dxp/tek-service:844ca71
+        image: harbor.harbor.svc.cluster.local/dxp/tek-service:3174932
         imagePullPolicy: IfNotPresent
         ports:
         - containerPort: 80
