@@ -1,6 +1,6 @@
 # tek-service
 
-tek-service app
+tek-service applicatif
 
 ## Stack
 - React 18 · Vite 5 · nginx
